@@ -33,7 +33,7 @@ body {
      z-index: -1;
 }
 
-img .thumbnail {
+.thumbnail {
   width:400px;
 	height:300px;
 	border: 1px solid #434343;
@@ -45,6 +45,5 @@ img .thumbnail {
 }
 
 .project {
-	background-color: gray;
 	margin-left: 20px;
 }
